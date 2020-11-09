@@ -1,9 +1,9 @@
-package dad.template.javafx;
+package aed.proyecto.hibernate;
 
 public class Main {
 
 	public static void main(String[] args) {
-		TemplateApp.main(args);
+		//.main(args);
 	}
 
 }
